@@ -44,7 +44,7 @@ Content-Type: application/json
 ###
 
 # поиск продуктов по названию и описанию
-GET http://localhost:8000/api/v1/products/?search=Помидор
+GET http://localhost:8000/api/v1/products/?search=Острая
 Content-Type: application/json
 
 ###
